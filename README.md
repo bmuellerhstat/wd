@@ -27,4 +27,5 @@ Hit CTRL-C to stop the server
 * To open that link:
   * On a Mac: <kbd>COMMAND</kbd>+**click**
   * On a Windows/Chromebook: <kbd>CONTROL</kbd>+**click**
+* Then click on the file you want to preview.
 * As it says, press <kbd>CONTROL</kbd>+<kbd>C</kbd> to stop the server
