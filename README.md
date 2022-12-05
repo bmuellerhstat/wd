@@ -17,5 +17,14 @@
   * to duplicate, use `cp -r templateFolder projects/newProjectName`
 
 ## Previewing HTML
-* Try to right-click your HTML file and press **Preview**
-* If ^this^ method doesn't work, right-click the parent folder of your file, press **Serve**, and then click your file.
+* Make sure you are in the folder of the file you want to preview, then run `http-server`
+* You will see something that looks like this:
+```bash
+Available on:
+  https://username-code50-12345678-7c3q5t9qyxgr3-8080.githubpreview.dev
+Hit CTRL-C to stop the server
+```
+* To open that link:
+  * On a Mac: <kbd>COMMAND</kbd>+**click**
+  * On a Windows/Chromebook: <kbd>CONTROL</kbd>+**click**
+* As it says, press <kbd>CONTROL</kbd>+<kbd>C</kbd> to stop the server
