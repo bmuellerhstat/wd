@@ -21,7 +21,7 @@
 * You will see something that looks like this:
 ```bash
 Available on:
-  https://username-code50-12345678-7c3q5t9qyxgr3-8080.githubpreview.dev
+  https://some-words-x5p5jq69x792vpx8-8080.githubpreview.dev
 Hit CTRL-C to stop the server
 ```
 * To open that link:
